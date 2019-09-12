@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "512065473461",
+    "firebase_url": "https://fir-jetpack-27cad.firebaseio.com",
+    "project_id": "fir-jetpack-27cad",
+    "storage_bucket": "fir-jetpack-27cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512065473461:android:ddf7fe26666698b84ca7fc",
+        "android_client_info": {
+          "package_name": "com.example.firebasejetpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512065473461-m2jghkns1i9tav62fv1bivlbp5icphar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasejetpack",
+            "certificate_hash": "ee13dd36e2cab5ab89546606709b6be385cd0b7e"
+          }
+        },
+        {
+          "client_id": "512065473461-v23cupmb7s670j43hqlfrb04pc27irof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzb39QWSAL-y2LGzT4T6O8a9NEz0HYtHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512065473461-v23cupmb7s670j43hqlfrb04pc27irof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
